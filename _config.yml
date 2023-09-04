@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Asif Ahmed"
   avatar           : "Profile_pic.jpg"
-  bio              : "HAHAHHAHHAHHAHAHAAH"
+  bio              : "PhD @ The University of Texas at San Antonio"
   location         : "San Antonio, TX"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "asif.ahmed2@my.utsa.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
