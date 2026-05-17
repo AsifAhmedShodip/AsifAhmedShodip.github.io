@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Asif Ahmed"
 title_separator          : "-"
 name                     : &name "Asif Ahmed"
-description              : &description "personal description"
+description              : &description "PhD Researcher in Computer Science at UTSA. Tabular data augmentation, fairness, and interpretability."
 url                      : https://asifahmedshodip.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "AsifAhmedShodip/AsifAhmedShodip.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Asif Ahmed"
   avatar           : "Profile_pic.jpg"
-  bio              : "PhD Student @ The University of Texas at San Antonio"
+  bio              : "PhD Researcher, UTSA CARE AI Lab. Tabular data augmentation, fairness, and interpretability."
   location         : "San Antonio, TX"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "asif.ahmed2@my.utsa.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  employer         : "University of Texas at San Antonio"
+  pubmed           :
+  googlescholar    : "https://scholar.google.com/citations?user=GmaLkqcAAAAJ&hl=en"
+  email            : "asif.ahmed@utsa.edu"
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "AsifAhmedShodip"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      :
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "asif-ahmed-shodip"
+  orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          :
   vine             :
   weibo            :
   xing             :
