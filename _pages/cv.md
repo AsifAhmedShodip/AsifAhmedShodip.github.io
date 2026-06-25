@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * **Ph.D. in Computer Science**, University of Texas at San Antonio, Aug. 2023 -- Present (expected 2028)
-  * CGPA: 3.96 / 4.00
+  * CGPA: 3.98 / 4.00
   * Advisor: Dr. Ke Yang
   * Passed Qualification Examination
   * Select Coursework: Analysis of Algorithms, Data Mining, Computer Vision, Data Science, Trust Confidence & Explainability in AI
@@ -44,6 +44,10 @@ Work Experience
   * Designed and executed manual + automated test plans for government and enterprise MIS platforms; reported defects with reproduction steps and collaborated with developers on resolution.
   * Validated functionality across web and Android applications using Selenium, JMeter, Postman, and SQL.
   * Notable projects: RAB Criminal Data & AFIS Management System; Bangladesh Returnee Case Management System (RCMS); Education Ministry Stipend & Scholarships MIS; Directorate of Technical Education MIS; SPBMU/IBAS++ Sub-Payment System.
+
+Awards & Honors
+======
+* **Student Travel Award**, ACM SIGKDD 2026 — competitive award for selected student authors, including conference registration waiver and partial travel support.
 
 Skills
 ======
