@@ -62,6 +62,10 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+Presentations
+======
+* **Poster**, *NiWo: An Augmentation Framework to Enhance ML Performance and Interpretability for Tabular Data with Class Imbalance*, ACM SIGKDD 2026, Jeju, Korea, Aug. 2026.
+
 Languages
 ======
 * Bengali (Native)
