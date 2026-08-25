@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD researcher in Computer Science at the [University of Texas at San Antonio (UTSA)](https://www.utsa.edu/), working in the [CARE AI Lab](https://www.cs.utsa.edu/) under [Dr. Ke Yang](https://kyang01.github.io/). My research focuses on **machine learning for tabular data**, with emphasis on **data augmentation**, **fairness**, **class imbalance**, and **interpretability** in high-stakes decision-making domains.
+I am a PhD researcher in Computer Science at the [University of Texas at San Antonio (UTSA)](https://www.utsa.edu/), working in the [CARE AI Lab](https://careonline.github.io) under [Dr. Ke Yang](https://caicc.utsa.edu/faculty/profiles/yang-ke.html). My research focuses on **machine learning for tabular data**, with emphasis on **data augmentation**, **fairness**, **class imbalance**, and **interpretability** in high-stakes decision-making domains.
 
 My first-author paper, *NiWo: An Augmentation Framework to Enhance ML Performance and Interpretability for Tabular Data with Class Imbalance*, has been accepted at **ACM SIGKDD 2026 (Research Track)**.
 
