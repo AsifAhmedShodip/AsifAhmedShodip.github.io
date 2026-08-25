@@ -3,14 +3,17 @@ title: "NiWo: An Augmentation Framework to Enhance ML Performance and Interpreta
 collection: publications
 permalink: /publication/2026-niwo-sigkdd
 excerpt: 'NiWo is an interpretable augmentation framework for imbalanced tabular data. It optimizes neighborhood instance weights within a fixed augmentation budget, eliminating reliance on costly explanation tools. NiWo outperforms prior augmentation methods across 62 tabular datasets and 7 ML models, especially on class-imbalanced and scarce-instance regimes.'
-date: 2026-08-01
+date: 2026-08-08
 venue: 'ACM SIGKDD 2026 (Research Track)'
-citation: 'Asif Ahmed, Sakhawat Hossain Saimon, Jianhua Ruan, Ke Yang. (2026). &quot;NiWo: An Augmentation Framework to Enhance ML Performance and Interpretability for Tabular Data with Class Imbalance.&quot; <i>ACM SIGKDD 2026 (Research Track)</i>.'
+paperurl: 'https://doi.org/10.1145/3770855.3817894'
+citation: 'Asif Ahmed, Sakhawat Hossain Saimon, Jianhua Ruan, Ke Yang. (2026). &quot;NiWo: An Augmentation Framework to Enhance ML Performance and Interpretability for Tabular Data with Class Imbalance.&quot; <i>Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining</i>, pp. 10-20.'
 ---
 
 **Authors:** Asif Ahmed, Sakhawat Hossain Saimon, Jianhua Ruan, Ke Yang
 
-**Venue:** ACM SIGKDD 2026 (Research Track)
+**Venue:** ACM SIGKDD 2026 (Research Track), pp. 10-20
+
+**DOI:** [10.1145/3770855.3817894](https://doi.org/10.1145/3770855.3817894)
 
 ## Abstract
 
@@ -24,5 +27,6 @@ This paper proposes a novel augmentation framework, **NiWo**, that eliminates th
 Asif Ahmed, Sakhawat Hossain Saimon, Jianhua Ruan, Ke Yang. (2026).
 "NiWo: An Augmentation Framework to Enhance ML Performance and
 Interpretability for Tabular Data with Class Imbalance."
-ACM SIGKDD 2026 (Research Track).
+Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery
+and Data Mining, pp. 10-20. DOI: 10.1145/3770855.3817894
 ```
