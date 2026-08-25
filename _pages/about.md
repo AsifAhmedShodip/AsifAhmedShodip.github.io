@@ -28,7 +28,7 @@ Before joining UTSA in Fall 2023, I worked as a Software Quality Assurance Engin
 ## News
 
 - **Aug 2026** — Presented *NiWo* as a poster at ACM SIGKDD 2026 in Jeju, Korea.
-- **2026** — Received the ACM SIGKDD 2026 Student Travel Award.
+- **Jun 2026** — Received the ACM SIGKDD 2026 Student Travel Award.
 - **May 2026** — NiWo accepted at ACM SIGKDD 2026 (Research Track).
 - **2024** — Passed PhD Qualification Examination at UTSA.
 - **Aug 2023** — Started PhD at UTSA CARE AI Lab.
